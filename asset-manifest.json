@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/bulleton/static/css/main.678fe033.chunk.css",
+    "main.js": "/bulleton/static/js/main.15bc2d57.chunk.js",
+    "main.js.map": "/bulleton/static/js/main.15bc2d57.chunk.js.map",
+    "runtime-main.js": "/bulleton/static/js/runtime-main.e335df2d.js",
+    "runtime-main.js.map": "/bulleton/static/js/runtime-main.e335df2d.js.map",
+    "static/js/2.b2d75996.chunk.js": "/bulleton/static/js/2.b2d75996.chunk.js",
+    "static/js/2.b2d75996.chunk.js.map": "/bulleton/static/js/2.b2d75996.chunk.js.map",
+    "index.html": "/bulleton/index.html",
+    "precache-manifest.3df7e6b5c991980cb9a4bc94bc627cd6.js": "/bulleton/precache-manifest.3df7e6b5c991980cb9a4bc94bc627cd6.js",
+    "service-worker.js": "/bulleton/service-worker.js",
+    "static/css/main.678fe033.chunk.css.map": "/bulleton/static/css/main.678fe033.chunk.css.map",
+    "static/js/2.b2d75996.chunk.js.LICENSE.txt": "/bulleton/static/js/2.b2d75996.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "/bulleton/static/media/logo.b0a1eb7c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e335df2d.js",
+    "static/js/2.b2d75996.chunk.js",
+    "static/css/main.678fe033.chunk.css",
+    "static/js/main.15bc2d57.chunk.js"
+  ]
+}
